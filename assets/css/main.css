@@ -343,6 +343,7 @@ h6 {
   }
 
   .navmenu ul {
+    --nav-mbile-background-color:#fff;
     display: none;
     list-style: none;
     position: absolute;
